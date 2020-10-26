@@ -1,4 +1,4 @@
-// O(n) time
+// O(n) time and O(1) space
 
 #include<iostream>
 #include<vector>
