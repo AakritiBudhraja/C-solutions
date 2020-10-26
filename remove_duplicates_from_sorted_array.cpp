@@ -1,3 +1,5 @@
+// O(n) time
+
 #include<iostream>
 #include<vector>
 #include<algorithm>
